@@ -3,9 +3,6 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
-<div align="center">
-	<img src="htpps://github.com/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/></a>
-</div>
 
 <p>
   Olá 👋, Sou o Jean! Um estudante apaixonado por Dados & Programação...
@@ -33,7 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-paul-c%C3%A9zanne-738a22350/)
 [![goggle](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://portifolio-jean-paul.netlify.app/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cezanne369&label=Profile%20views&color=0e75b6&style=flat" alt="cezanne369" /> 
+
 
 ![Cezanne369 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cezanne369&show_icons=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cezanne369&layout=compact&show_icons=true&theme=gotham)
