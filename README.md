@@ -42,7 +42,7 @@
 - [Atividade Análise de Dados](https://github.com/Cezanne369/Atividade_dados_facu/tree/main)
   
 <p align="left">
-  <img align="center" src="https://i.pinimg.com/originals/0f/76/ea/0f76ea695e159368163814b51de6a72d.gif" alt="Imagem" height="500" width="500" >
+  <img align="center" src="https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif" alt="Imagem" height="400" width="1000" >
 </p>
 
 ## 🔥 Habilidades
