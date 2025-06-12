@@ -3,6 +3,9 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
+<div align="center">
+	<img src="htpps://github.com/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/></a>
+</div>
 
 <p>
   Olá 👋, Sou o Jean! Um estudante apaixonado por Dados & Programação...
