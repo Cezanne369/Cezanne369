@@ -1,27 +1,25 @@
-      
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
+# Jean Cézanne
 
-<p>
-  Olá 👋, Sou o Jean! Um estudante apaixonado por Dados & Programação...
+Estagiário na Telefônica Vivo (RPA e Analytics) · Sistemas de Informação — Uninove (previsão 2028)  
+Foco: engenharia de dados (SQL, Python, pipelines, AWS, Airflow, PySpark)
 
-  - 🌱 Estudante de Sistemas de Informação na Uninove (Universidade Nove de Julho)
+São Paulo, SP · [LinkedIn](https://www.linkedin.com/in/jean-cezanne) · jeanpcezanne@gmail.com
 
-  </p>
+## Agora
 
-## 👨‍💻Mais sobre mim
+- Estágio na **Telefônica Vivo**: SQL na operação de RPA, script Python em lote e dashboard em Power BI.
+- Caminho: sair de analytics operacional para **engenharia de dados** (ETL, orquestração, nuvem).
 
-- 👋 Tenho 23 anos e atualmente estou estagiando na Telefônica (Vivo) Como RPA
+## Stack
 
-- 📦 Tenho experiência na área de logística e expedição, onde aprendi na prática sobre responsabilidade, trabalho em equipe e organização.
+`SQL` `Python` `Pandas` `MySQL` `AWS (S3, RDS, EC2)` `Airflow` `PySpark` `Power BI` `Excel`
 
-- 💻 Venho me desenvolvendo em atuar na como Engenheiro de Dados
+## Projetos
 
-- 🤓 Sou uma pessoa curiosa, comprometida e apaixonada por resolver problemas. Acredito que começar em um ambiente onde eu possa aprender e aplicar meus conhecimentos será um passo importante para a minha carreira — e também uma ótima chance de contribuir com dedicação desde o início.
+- [Análise São Paulo FC 2023](https://github.com/Cezanne369/SPFC_dados)
+- [Tráfego de São Paulo](https://github.com/Cezanne369/Trafego_sao_paulo)
+- [Cotação de moeda](https://github.com/Cezanne369/cota-o_moeda)
 
-- 🙏 Agradeço pela atenção e fico à disposição para conversarmos melhor. Será um prazer mostrar meu potencial!
 
 ## Rede Sociais
 
@@ -34,15 +32,6 @@
 ![Cezanne369 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cezanne369&show_icons=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cezanne369&layout=compact&show_icons=true&theme=gotham)
 
-## Portfolio:
-- [Sobre o clima](https://github.com/Cezanne369/sobre_o_clima)
-- [Meu Portifólio](https://github.com/Cezanne369/Portifolio_jean)
-- [Agenda Usando Python(Django)](https://github.com/Cezanne369/Agenda_python)
-- [Protejo do Transito de São Paulo](https://github.com/Cezanne369/Trafego_sao_paulo.git)
-- [Sistema de estoque de uma Loja](https://github.com/Cezanne369/Estoque_loja)
-- [Projeto de Cotação de moeda](https://github.com/Cezanne369/cota-o_moeda.git)
-- [Análise São Paulo FC 2023](https://github.com/Cezanne369/SPFC_dados.git)
-  
 <p align="left">
   <img align="center" src="https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif" alt="Imagem" height="400" width="1000" >
 </p>
