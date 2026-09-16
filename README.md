@@ -7,10 +7,9 @@
 <p>
   Olá 👋, Sou o Jean! Um estudante apaixonado por Dados & Programação...
 
-  - 🌱 Atualmente estou estudando Sistemas de Informação na Uninove (Universidade Nove de Julho)
+  - 🌱 Estudante de Sistemas de Informação na Uninove (Universidade Nove de Julho)
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com Dados mais especificamente com engenherio de dados.
-</p>
+  </p>
 
 ## 👨‍💻Mais sobre mim
 
@@ -26,9 +25,9 @@
 
 ## Rede Sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cezanne.exe/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cezanne.py/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-paul-c%C3%A9zanne-738a22350/)
-[![goggle](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://portifolio-jean-paul.netlify.app/)
+
 
 
 
