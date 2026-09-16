@@ -17,7 +17,7 @@
 
 - 📦 Tenho experiência na área de logística e expedição, onde aprendi na prática sobre responsabilidade, trabalho em equipe e organização.
 
-- 💻 Venho me dedicando a desenvolver habilidades técnicas em Excel, Power BI, SQL e Python, através de cursos, projetos e bastante prática. Estou sempre estudando para aplicar o que aprendo de forma útil e criativa.
+- 💻 Venho me desenvolvendo em atuar na como Engenheiro de Dados
 
 - 🤓 Sou uma pessoa curiosa, comprometida e apaixonada por resolver problemas. Acredito que começar em um ambiente onde eu possa aprender e aplicar meus conhecimentos será um passo importante para a minha carreira — e também uma ótima chance de contribuir com dedicação desde o início.
 
