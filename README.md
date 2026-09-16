@@ -38,9 +38,10 @@
 - [Sobre o clima](https://github.com/Cezanne369/sobre_o_clima)
 - [Meu Portifólio](https://github.com/Cezanne369/Portifolio_jean)
 - [Agenda Usando Python(Django)](https://github.com/Cezanne369/Agenda_python)
-- [Atividade Análise de Dados](https://github.com/Cezanne369/Atividade_dados_facu/tree/main)
+- [Protejo Sobre o Trafico de São Paulo](https://github.com/Cezanne369/Trafego_sao_paulo.git)
 - [Sistema de estoque de uma Loja](https://github.com/Cezanne369/Estoque_loja)
-- [Sitema de um Hotel](https://github.com/Cezanne369/sistema_hotel)
+- [Projeto de Cotação de moeda](https://github.com/Cezanne369/cota-o_moeda.git)
+- [Análise São Paulo FC 2023](https://github.com/Cezanne369/SPFC_dados.git)
   
 <p align="left">
   <img align="center" src="https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif" alt="Imagem" height="400" width="1000" >
